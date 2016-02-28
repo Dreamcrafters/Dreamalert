@@ -7,8 +7,8 @@ main: DreamAlert\MainClass
 commands:
   adminjoin:
     description: "DreamAlert main command"
-    usage: "/AdminJoin <message on op entry>"
-    permission: "adminjoin.command.adminjoin"
+    usage: "/DreamAlert <message on op entry>"
+    permission: "DreamAlert.command.adminjoin"
 
 permissions:
   DreamAlert:
